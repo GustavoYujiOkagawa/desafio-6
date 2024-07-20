@@ -2,7 +2,7 @@ import React from "react";
 import Illustration from "./Illustration";
 import ListProduct from "./ListProduct";
 import CheckEmail from "./CheckEmail";
-import list from "../data/Data";
+import list from "../data/Data.js";
 
 const Newslatter = ( { SubmitButtonProp } ) => {
   return (

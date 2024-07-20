@@ -1,6 +1,6 @@
 'use client'
 import React, { useState } from 'react'
-import Validation from './validation';
+import Validation from './Validation.js';
 
 const CheckEmail = ({ SubmitButtonProp }) => {
 
